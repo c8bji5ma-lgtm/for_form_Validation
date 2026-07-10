@@ -51,4 +51,5 @@ function emailValidation() {
   });
 }
 
+// ページが読み込まれたときにemailValidation関数を実行
 window.onload = emailValidation;
